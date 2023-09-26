@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Fb2CoverCutter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Temp\\59 - Sergey Slyusarenko - Konstanta svyazi.fb2\""
+    }
+  }
+}
